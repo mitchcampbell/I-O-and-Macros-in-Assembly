@@ -12,5 +12,6 @@ The program:
 * performs calculations (sum, rounded average)
 * converts the calculated numbers to string and displays the string
 
-Here is an example showing the program in action
+Here is an example showing the program in action:
+
 ![example](/images/example.PNG)
